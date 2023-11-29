@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhargav</h1>
 <h3 align="center">A Software developer from San Jose State University (Go Spartans!)</h3>
 
-<img align="right" alt="coding" width="400" height="300" src="https://github.com/bhargavpshah98/bhargavpshah98/assets/19584278/8d131e42-fa2c-442c-a23c-fba0ff2affaa.gif">
+<img align="right" alt="coding" width="300" height="200" src="https://github.com/bhargavpshah98/bhargavpshah98/assets/19584278/8d131e42-fa2c-442c-a23c-fba0ff2affaa.gif">
 
 - 📫 How to reach me: **shahbhargav23@gmail.com**
 - 🚀 Connect with me on LinkedIn: https://www.linkedin.com/in/bhargavpshah/
