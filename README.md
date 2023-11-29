@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhargav</h1>
 <h3 align="center">A passionate developer from San Jose State University (Go Spartans!)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargavpshah98&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavpshah98" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhargavpshah98" alt="bhargavpshah98" /></a> </p>
-
 - 📫 How to reach me **shahbhargav23@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,7 +14,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shahbhargav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shahbhargav" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhargavpshah98&show_icons=true&locale=en&layout=compact" alt="bhargavpshah98" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargavpshah98&show_icons=true&locale=en" alt="bhargavpshah98" /></p>
