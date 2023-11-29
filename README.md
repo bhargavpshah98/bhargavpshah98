@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhargav</h1>
 <h3 align="center">A passionate developer from San Jose State University (Go Spartans!)</h3>
 
-- 📫 How to reach me **shahbhargav23@gmail.com**
+- 📫 How to reach me: **shahbhargav23@gmail.com**
+- ⚡ Fun fact: **I think I am funny**
 
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on LinkedIn</h3>
 <p align="left">
 </p>
 
