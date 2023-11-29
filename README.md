@@ -4,7 +4,7 @@
 - 📫 How to reach me: **shahbhargav23@gmail.com**
 - 🚀 Connect with me on LinkedIn: https://www.linkedin.com/in/bhargavpshah/
 - ☕ Buy me a Coffee: https://www.buymeacoffee.com/shahbhargav
-- ⚡ Fun fact: **I think I am funny**
+- ⚡ Fun fact: **I think I am amicable**
 
 <p align="left">
 </p>
