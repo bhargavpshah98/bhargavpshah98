@@ -7,7 +7,7 @@
 - 🚀 Connect with me on LinkedIn: https://www.linkedin.com/in/bhargavpshah/
 - ☕ Buy me a Coffee: https://www.buymeacoffee.com/shahbhargav
 - ⚓ Currently learning LLMs
-- ⚡ Fun fact: **I think I am amicable**
+- ⚡ Fun fact: **I love playing ping pong and I think I am amicable :D**
 
 <!--<p align="left">
 </p>
