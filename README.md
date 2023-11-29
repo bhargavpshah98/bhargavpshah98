@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhargav</h1>
 <h3 align="center">A Software developer from San Jose State University (Go Spartans!)</h3>
 
+<img align="right" alt="coding" src="![image](https://github.com/bhargavpshah98/bhargavpshah98/assets/19584278/87c284eb-1edd-4cf9-811d-f3c0cdb60dff)">
+"
 - 📫 How to reach me: **shahbhargav23@gmail.com**
 - 🚀 Connect with me on LinkedIn: https://www.linkedin.com/in/bhargavpshah/
 - ☕ Buy me a Coffee: https://www.buymeacoffee.com/shahbhargav
