@@ -6,6 +6,7 @@
 - 📫 How to reach me: **shahbhargav23@gmail.com**
 - 🚀 Connect with me on LinkedIn: https://www.linkedin.com/in/bhargavpshah/
 - ☕ Buy me a Coffee: https://www.buymeacoffee.com/shahbhargav
+- ⚓ Current learning LLMs
 - ⚡ Fun fact: **I think I am amicable**
 
 <!--<p align="left">
