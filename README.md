@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhargav</h1>
-<h3 align="center">A passionate developer from San Jose State University (Go Spartans!)</h3>
+<h3 align="center">A Software developer from San Jose State University (Go Spartans!)</h3>
 
 - 📫 How to reach me: **shahbhargav23@gmail.com**
-- ![image](https://github.com/bhargavpshah98/bhargavpshah98/assets/19584278/be45d6c4-449f-4dc7-886d-fec1cf2e15ab) Connect with me on LinkedIn: https://www.linkedin.com/in/bhargavpshah/
-
+- 🚀 Connect with me on LinkedIn: https://www.linkedin.com/in/bhargavpshah/
+- ☕ Buy me a Coffee: https://www.buymeacoffee.com/shahbhargav
 - ⚡ Fun fact: **I think I am funny**
 
-<h3 align="left">Connect with me on LinkedIn</h3>
 <p align="left">
 </p>
 
