@@ -5,6 +5,7 @@
 
 - 📫 How to reach me: **bhargavpshah98@gmail.com**
 - 🚀 Connect with me on LinkedIn: https://www.linkedin.com/in/bhargavpshah/
+- 💻 Leetcode Profile: https://leetcode.com/da_vinci01/
 - ☕ Buy me a Coffee: https://www.buymeacoffee.com/shahbhargav
 - ⚓ Currently learning LLMs
 - ⚡ Fun fact: **I love playing ping pong and I think I am amicable :D**
