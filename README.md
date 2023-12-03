@@ -8,7 +8,7 @@
 - 💻 Leetcode Profile: https://leetcode.com/da_vinci01/
 - ☕ Buy me a Coffee: https://www.buymeacoffee.com/shahbhargav
 - ⚓ Currently learning LLMs
-- ⚡ Fun fact: **I love playing ping pong and I think I am amicable :D**
+- ⚡ Fun fact: **I love playing ping pong and I think I am an amicable person :D**
 
 <!--<p align="left">
 </p>
